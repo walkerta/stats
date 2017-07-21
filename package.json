@@ -1,0 +1,21 @@
+{
+  "name": "stats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scripts": {
+      "test": "mocha"
+    }
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "body-parser": "^1.17.2",
+    "mocha": "^3.4.2",
+    "mongoose": "^4.11.1",
+    "node-session": "^1.2.1"
+  }
+}
